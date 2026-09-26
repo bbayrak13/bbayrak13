@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am Burcu, a freshman majoring in computer science in Bilkent University.
 <!--
 **bbayrak13/bbayrak13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
